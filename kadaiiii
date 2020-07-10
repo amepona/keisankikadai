@@ -1,0 +1,6 @@
+import random
+X = random.randint(1,100)
+if X <= 99
+    print('残念')
+else
+    print('おめでとう')
